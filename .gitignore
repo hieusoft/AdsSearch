@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Build output (PyInstaller + PyArmor)
+output/
+_obf/
+_build_tmp/
+*.spec
+
+# Du lieu runtime / nhay cam
+proxy.txt
+*.log
+page*.html
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

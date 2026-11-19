@@ -1,0 +1,9 @@
+# GUI + automation
+PySide6>=6.5
+uiautomator2>=3.0
+adbutils>=2.11
+websocket-client>=1.6
+
+# Dong goi (chi can khi build EXE)
+# pyinstaller>=6.0
+# pyarmor
